@@ -25,7 +25,7 @@
   "author": "Conor Hastings",
   "license": "MIT",
   "dependencies": {
-    "react-virtualized": "9.21.2"
+    "react-virtualized": "9.22.6"
   },
   "devDependencies": {
     "@babel/cli": "7.27.0",
