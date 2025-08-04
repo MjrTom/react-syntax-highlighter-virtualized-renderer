@@ -43,7 +43,7 @@
     "lint-staged": "16.1.2",
     "npm-run-all": "4.1.5",
     "react": "19.1.1",
-    "react-dom": "19.1.0",
+    "react-dom": "19.1.1",
     "react-syntax-highlighter": "github:MjrTom/react-syntax-highlighter"
   },
   "peerDependencies": {
